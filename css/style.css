@@ -1,0 +1,74 @@
+/* Reset */
+
+
+
+
+
+
+
+/* Main */
+.color {
+    background-color: black;
+}
+
+.flex {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 15px;
+}
+
+.color img {
+    width: 78px;
+}
+.color  {
+    display: flex;
+    justify-content: flex-end;
+    height: 33px;
+}
+
+
+.font i {
+    font-size: 33px;
+    color: darkgray;
+
+}
+.font {
+    border-radius: 5%;
+    border: 1px solid lightgrey;
+    width: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.lg {
+    display: flex;
+    list-style-type: none;
+}
+
+.list {
+    display: flex;
+    justify-content: space-between;
+}
+.list li {
+    list-style-type: none;
+    padding: 15px;
+    
+}
+.list a {
+    text-decoration: none;
+}
+
+
+
+
+
+@media  screen and (min-width: 992px) {
+    
+    .flex {
+        display: none;
+    }
+    .font {display: none;}
+
+    
+}
