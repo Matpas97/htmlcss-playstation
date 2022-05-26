@@ -6,69 +6,89 @@
 
 
 
-/* Main */
-.color {
-    background-color: black;
-}
-
-.flex {
-    display: flex;
-    justify-content: space-between;
-    padding-top: 15px;
-}
-
-.color img {
-    width: 78px;
-}
-.color  {
+/* Header */
+.colore {
     display: flex;
     justify-content: flex-end;
-    height: 33px;
+    background-color: black;
+    width: 100%;
+    height: 50px;
 }
 
-
-.font i {
-    font-size: 33px;
-    color: darkgray;
-
+.colore img {
+    width: 14%;
 }
-.font {
-    border-radius: 5%;
-    border: 1px solid lightgrey;
-    width: 60px;
+.ts {
     display: flex;
-    justify-content: center;
-    align-items: center;
 }
 
-.lg {
-    display: flex;
+ .navbar a {
+   text-decoration: none;
+   padding: 5px;
+   color: black;
+}
+
+.ts li {
     list-style-type: none;
+    padding-top: 5px;
+}
+.ts a {
+    color: black;
+}
+.ts a {
+    padding-top: 10px;
 }
 
-.list {
-    display: flex;
-    justify-content: space-between;
+/* Section 1 */
+.banner-img {
+    background-image: url("../img/jumbo-bg.png");
+    background-position: top;
+    background-size: cover;
+    padding: 7.5rem 1rem;
 }
-.list li {
-    list-style-type: none;
-    padding: 15px;
-    
+.container {
+    padding-top: 40px;
 }
-.list a {
+
+.banner-img .testo img {
+    width: 50%;
+}
+.banner-img .testo {
+    color: white;
+}
+.h3 {
+    font-size: 40px;
+}
+.banner-img a {
     text-decoration: none;
+    background-color: #cb3234;
+    padding: 10px;
+    border-radius: 20%;
+    color: white;
+}
+.img-fluid {
+    border-radius: 11%;
+    border: 1px solid blue;
+}
+.row {
+    padding: 10px;
+}
+
+@media screen {
+    
 }
 
 
 
 
 
-@media  screen and (min-width: 992px) {
-    
-    .flex {
-        display: none;
-    }
-    .font {display: none;}
 
-    
-}
+
+
+
+
+
+/* Section 2 */
+
+
+
