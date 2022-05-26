@@ -66,6 +66,7 @@
     border-radius: 20%;
     color: white;
 }
+/* Section 2 */
 .img-fluid {
     border-radius: 11%;
     border: 1px solid blue;
@@ -79,16 +80,56 @@
 }
 
 
+/* Section 3 */
 
+.container span {
+    text-align: center;
+    color: deepskyblue;
+    padding-left: 171px;
+}
+ 
+ .container h2 {
+     font-size: 40px;
+     text-align: center;
+ }
 
+.container p {
+    text-align: center;
+}
+.elements {
+    margin: 0 auto;
+    width: 95%;
+    padding-top: 30px;
+}
+.elements h2 {
+    font-size: 40px;
+}
+.elements a {
+    text-decoration: none;
+    background-color:  #007fff;
+    padding: 10px 10px;
+    border-radius: 19%;
+    color: white;
+}
 
+.img-play img {
+    width: 600px;
+}
+.row1 img {
+    width: 150px;
+}
+/* Section 6 */
 
+.banner2 {
+    background-image: url("../img/it-takes-two-hero-banner-desktop.jpg");
+    background-position: top;
+    background-size: cover;
+    height: 500px;
+}
+.banner2 img {
+    width: 300px;
+}
 
-
-
-
-
-/* Section 2 */
-
-
-
+.banner2 h3, p ,a {
+    color: white;
+}
