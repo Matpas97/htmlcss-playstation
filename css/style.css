@@ -133,3 +133,141 @@
 .banner2 h3, p ,a {
     color: white;
 }
+
+.banner2 h3 {
+ font-size: 40px;
+}
+
+.banner2 p {
+    padding-top: 10px;
+}
+
+.banner2 a {
+    text-decoration: none;
+    background-color: #cb3234;
+    padding: 15px;
+    border-radius: 20%;
+    color: white;
+}
+
+/* Section 7 */
+
+.available h4 {
+    color: white;
+}
+
+.available h3 {
+font-size: 29px;
+color: white;
+}
+
+.elementss h5 {
+    color: white;
+    padding-top: 6px;
+}
+.elementss {
+    background-color: black;
+    margin: 0 auto;
+    width: 95%;
+    padding-top: 30px;
+}
+
+/* Section 8 */
+
+.container p {
+    color: gray;
+    font-size: 20px;
+}
+.container h3 {
+    text-align: center;
+    font-size: 50px;
+}
+.container a {
+    background-color: #007fff;
+    padding: 10px;
+    border-radius: 10%;
+    text-decoration: none;
+    color: white;
+}
+
+.imgps4 img {
+    width: 100%;
+}
+
+.play h3 {
+    text-align: left;
+    font-size: 36px;
+}
+
+/* Section 9 */
+
+.psplus img {
+width: 60%;
+}
+.color {
+    background-color: grey;
+    padding-top: 30px;
+}
+.color a {
+    background-color: lightgray;
+    text-decoration: none;
+    padding: 10px;
+    color: #007fff;
+    
+}
+.color p {
+    color: black;
+    font-size: 15px;
+    padding-top: 10px;
+
+}
+.container {
+    padding-bottom: 30px;
+    text-align: left;
+}
+.imgplay img {
+    width: 100%;
+    padding: 20px 0;
+}
+.sale h3 {
+    font-size: 46px;
+
+}
+
+.sale p {
+    padding-top: 15px;
+}
+
+/* Section 11 */
+
+.playnow img {
+    width: 50%;
+
+}
+
+.colortwo {
+    background-color:  #252850;
+    height: 270px;
+}
+
+.colortwo p {
+    color: white;
+    padding-top: 35px;
+}
+
+.colortwo a {
+    background-color: white;
+    color: black;
+    padding: 20px;
+    text-decoration: none;
+    border-radius: 31%;
+}
+
+.explore {
+    padding-top: 20px;
+}
+
+.media h3 {
+    font-size: 39px;
+    padding-bottom: 62px;
+}
