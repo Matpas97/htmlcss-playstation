@@ -271,3 +271,19 @@ width: 60%;
     font-size: 39px;
     padding-bottom: 62px;
 }
+
+/* Section 13 */
+
+.sonylogo img {
+    width: 100%;
+    height: 200px;
+
+}
+img.black {
+    filter: grayscale(100%);
+    -webkit-filter: grayscale(100%);
+    -moz-filter: grayscale(100%);
+    -ms-filter: grayscale(100%); 
+    -o-filter: grayscale(100%);
+    filter: gray; /* Fix per Explorer */
+}
