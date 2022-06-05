@@ -275,7 +275,7 @@ width: 60%;
 /* Section 13 */
 
 .sonylogo img {
-    width: 100%;
+    width: 25%;
     height: 200px;
 
 }
@@ -286,4 +286,36 @@ img.black {
     -ms-filter: grayscale(100%); 
     -o-filter: grayscale(100%);
     filter: gray; /* Fix per Explorer */
+}
+
+.list-group li {
+    padding: 10px;
+}
+
+.container span {
+    display: block;
+}
+
+.country {
+    padding-right: 300px;
+    color: white;
+}
+
+.red {
+    background-color:  #343a90;
+}
+
+.link li {
+    color: white;
+}
+
+.img-sony img {
+    
+    width: 29%;
+}
+
+.limited {
+    font-size: 12px;
+    padding-top: 20px;
+    color: white;
 }
